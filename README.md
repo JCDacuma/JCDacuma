@@ -13,7 +13,7 @@ With a passion for both frontend and backend development, I enjoy turning comple
 
 🧠 A mindset for continuous learning—always exploring new technologies, tools, and development methodologies.
 
-🎯 A focus on writing clean, maintainable, and scalable code that delivers real-world impact.
+🎯 A focus on writing clean, maintainable, and scalable code that delivers realworld impact.
 
 🤝 A collaborative spirit, valuing teamwork, clear communication, and knowledge sharing.
 
