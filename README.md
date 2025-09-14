@@ -5,12 +5,25 @@
 
 ---
 
-## 🧑‍💻 About Me
-- 🔥 Passionate about **Frontend & Backend Development**  
-- 🎨 Crafting sleek UIs with **Tailwind, Bootstrap, CSS, and React**  
-- ⚙️ Building robust backends with **Laravel, PHP, and REST APIs**  
-- 🌱 Always learning new tools and best practices in web development  
-- 🎯 Goal: Deliver impactful digital solutions through clean and efficient code  
+👨‍💻 About Me
+Hi there! I'm a passionate Full-Stack Web Developer dedicated to crafting seamless and efficient digital experiences.
+
+💡 What I Do
+
+🎨 Frontend Development
+Creating responsive, user-friendly interfaces using React, Tailwind CSS, Bootstrap, and modern CSS techniques.
+
+⚙️ Backend Development
+Building secure and scalable server-side applications with Laravel, PHP, and RESTful APIs.
+
+🔁 Integration & Optimization
+Connecting frontend with backend seamlessly, focusing on performance, accessibility, and maintainability.
+
+🚀 Continuous Learning
+Always exploring new tools, frameworks, and best practices to stay ahead in the fast-evolving web ecosystem.
+
+🎯 Mission
+To transform ideas into impactful digital products through clean code, thoughtful design, and a user-first mindset.
 
 ---
 
