@@ -11,7 +11,7 @@ With a passion for both frontend and backend development, I enjoy turning comple
 
 🔧 Experience in full-stack development, from crafting intuitive user interfaces to architecting robust backend systems.
 
-🧠 A mindset for continuous learning—always exploring new technologies, tools, and development methodologies.
+🧠 A mindset for continuous learning always exploring new technologies, tools, and development methodologies.
 
 🎯 A focus on writing clean, maintainable, and scalable code that delivers realworld impact.
 
