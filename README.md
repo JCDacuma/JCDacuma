@@ -1,35 +1,25 @@
 # Hi there 👋, I'm Jauie Cañon  
 
 💻 **Web Developer**  
-🚀 Skilled in building modern, responsive, and scalable web applications  
+🚀 Skilled in building modern, responsive, and scalable web applications
 
 ---
 
-👨‍💻 About Me
+With a passion for both frontend and backend development, I enjoy turning complex problems into elegant, efficient solutions. My work is driven by clean code practices, performance optimization, and thoughtful design.
 
-Hi there! I'm a passionate Full-Stack Web Developer dedicated to crafting seamless and efficient digital experiences.
+💼 What I Bring
 
-💡 What I Do
+🔧 Experience in full-stack development, from crafting intuitive user interfaces to architecting robust backend systems.
 
-🎨 Frontend Development
+🧠 A mindset for continuous learning—always exploring new technologies, tools, and development methodologies.
 
-Creating responsive, user-friendly interfaces using React, Tailwind CSS, Bootstrap, and modern CSS techniques.
+🎯 A focus on writing clean, maintainable, and scalable code that delivers real-world impact.
 
-⚙️ Backend Development
+🤝 A collaborative spirit, valuing teamwork, clear communication, and knowledge sharing.
 
-Building secure and scalable server-side applications with Laravel, PHP, and RESTful APIs.
+🌱 Always Evolving
 
-🔁 Integration & Optimization
-
-Connecting frontend with backend seamlessly, focusing on performance, accessibility, and maintainability.
-
-🚀 Continuous Learning
-
-Always exploring new tools, frameworks, and best practices to stay ahead in the fast-evolving web ecosystem.
-
-🎯 Mission
-
-To transform ideas into impactful digital products through clean code, thoughtful design, and a user-first mindset.
+I'm constantly improving my skills and staying up to date with the latest trends in web development. Whether it's exploring modern frameworks, refining UI/UX principles, or optimizing performance—I’m always learning.
 
 ---
 
