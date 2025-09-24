@@ -93,10 +93,12 @@ A comprehensive Point of Sale system featuring real-time inventory tracking, sal
 
 ## 📈 Current Focus
 
-- 🌱 Exploring **Next.js** and **TypeScript** for enhanced development workflows
-- 🔍 Diving deeper into **microservices architecture**
-- 📚 Learning **cloud deployment** strategies with AWS/GCP
-- 🎨 Improving **UI/UX design** skills
+- ⚡ Advancing expertise in **Laravel (PHP 8+)** for backend development and **React.js** for dynamic frontends  
+- 🔗 Architecting and consuming **RESTful APIs**, including authentication (JWT, OAuth2) and data validation  
+- 🛒 Developing scalable **e-commerce solutions** with features like inventory management, order processing, and payment integration  
+- 🎨 Creating **intuitive, responsive UIs** using modern CSS frameworks (Tailwind, Bootstrap) and component-driven design  
+- 🧹 Applying **clean code practices**: SOLID principles, design patterns, and code refactoring for long-term maintainability  
+
 
 ---
 
@@ -105,7 +107,6 @@ A comprehensive Point of Sale system featuring real-time inventory tracking, sal
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JCDacuma)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jauie-canon)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 </div>
