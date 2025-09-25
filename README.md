@@ -17,11 +17,15 @@ I'm a passionate **Full-Stack Developer** who thrives on transforming complex ch
 
 ### ✨ What I Bring to the Table
 
-- 🔧 **End-to-End Development** – From intuitive UIs to robust backend architectures
-- 🧠 **Continuous Learning** – Always exploring cutting-edge technologies and best practices  
-- 🎯 **Quality-Focused** – Writing maintainable, scalable code that stands the test of time
-- 🤝 **Team Player** – Strong communication skills and collaborative approach
-- 💡 **Problem Solver** – Turning business requirements into technical solutions
+🔧 Full-Stack Web Development – Designing responsive, accessible UIs and building secure, scalable backend APIs with modern frameworks and databases
+
+🧠 Continuous Learning – Staying current with evolving web standards, performance optimization techniques, and cutting-edge frontend/backend technologies
+
+🎯 Quality-Driven Engineering – Writing modular, testable, and maintainable code with strong focus on scalability, performance, and long-term reliability
+
+🤝 Collaborative Team Player – Thrives in agile environments, communicating effectively with designers, developers, and stakeholders to deliver impactful solutions
+
+💡 Practical Problem Solver – Transforming complex business requirements into efficient, user-focused web applications that add real value
 
 ---
 
