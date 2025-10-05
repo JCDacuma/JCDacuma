@@ -13,7 +13,7 @@
 
 ## 🌟 About Me
 
-I'm a passionate **Full-Stack Developer** who thrives on transforming complex challenges into elegant, user-centric solutions. My expertise spans both **frontend** and **backend** development, with a focus on creating applications that are not only functional but delightful to use.
+I am a dedicated Web Developer with expertise in both frontend and backend development. I focus on building modern, responsive, and high-performance web applications that deliver exceptional user experiences. I’m passionate about transforming complex ideas into clean, efficient, and scalable solutions that align with business goals.
 
 ### ✨ What I Bring to the Table
 
