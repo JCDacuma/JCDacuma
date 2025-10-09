@@ -101,7 +101,7 @@ A comprehensive Point of Sale system featuring real-time inventory tracking, sal
 
 - ⚡ Advancing expertise in **Laravel (PHP 8+)** for backend development and **React.js** for dynamic frontends  
 - 🔗 Architecting and consuming **RESTful APIs**, including authentication (JWT, OAuth2) and data validation  
-- 🛒 Developing scalable **e-commerce solutions** with features like inventory management, order processing, and payment integratio  
+- 🛒 Developing scalable **e-commerce solutions** with features like inventory management, order processing, and payment integration  
 - 🎨 Creating **intuitive, responsive UIs** using modern CSS frameworks (Tailwind, Bootstrap) and component-driven design  
 - 🧹 Applying **clean code practices**: SOLID principles, design patterns, and code refactoring for long-term maintainability  
 
