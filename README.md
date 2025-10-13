@@ -17,15 +17,15 @@ I am a dedicated Web Developer with expertise in both frontend and backend devel
 
 ### ✨ What I Bring to the Table
 
-🔧 Full-Stack Web Development – Designing responsive, accessible UIs and building secure, scalable backend APIs with modern frameworks and databases
+🔧 Full-Stack Web Development – Designing responsive, accessible UIs and building secure, scalable backend APIs with modern frameworks and databases.
 
-🧠 Continuous Learning – Staying current with evolving web standards, performance optimization techniques, and cutting-edge frontend/backend technologies
+🧠 Continuous Learning – Staying current with evolving web standards, performance optimization techniques, and cutting-edge frontend/backend technologies.
 
-🎯 Quality-Driven Engineering – Writing modular, testable, and maintainable code with strong focus on scalability, performance, and long-term reliability
+🎯 Quality-Driven Engineering – Writing modular, testable, and maintainable code with strong focus on scalability, performance, and long-term reliability.
 
-🤝 Collaborative Team Player – Thrives in agile environments, communicating effectively with designers, developers, and stakeholders to deliver impactful solutions
+🤝 Collaborative Team Player – Thrives in agile environments, communicating effectively with designers, developers, and stakeholders to deliver impactful solutions.
 
-💡 Practical Problem Solver – Transforming complex business requirements into efficient, user-focused web applications that add real value
+💡 Practical Problem Solver – Transforming complex business requirements into efficient, user-focused web applications that add real value.
 
 ---
 
