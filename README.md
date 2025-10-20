@@ -4,28 +4,28 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=JCDacuma&color=blueviolet&style=for-the-badge)
 
-### 💻 Full-Stack Web Developer
-### 🚀 Building modern, responsive & scalable web applications
+###  Full-Stack Web Developer
+###  Building modern, responsive & scalable web applications
 
 </div>
 
 ---
 
-## 🌟 About Me
+##  About Me
 
 I am a dedicated Web Developer with expertise in both frontend and backend development. I focus on building modern, responsive, and high-performance web applications that deliver exceptional user experiences. I’m passionate about transforming complex ideas into clean, efficient, and scalable solutions that align with business goals.
 
-### ✨ What I Bring to the Table
+###  What I Bring to the Table
 
-🔧 Full-Stack Web Development – Designing responsive, accessible UIs and building secure, scalable backend APIs with modern frameworks and databases.
+ Full-Stack Web Development – Designing responsive, accessible UIs and building secure, scalable backend APIs with modern frameworks and databases.
 
-🧠 Continuous Learning – Staying current with evolving web standards, performance optimization techniques, and cutting-edge frontend/backend technologies.
+ Continuous Learning – Staying current with evolving web standards, performance optimization techniques, and cutting-edge frontend/backend technologies.
 
-🎯 Quality-Driven Engineering – Writing modular, testable, and maintainable code with strong focus on scalability, performance, and long-term reliability.
+ Quality-Driven Engineering – Writing modular, testable, and maintainable code with strong focus on scalability, performance, and long-term reliability.
 
-🤝 Collaborative Team Player – Thrives in agile environments, communicating effectively with designers, developers, and stakeholders to deliver impactful solutions.
+ Collaborative Team Player – Thrives in agile environments, communicating effectively with designers, developers, and stakeholders to deliver impactful solutions.
 
-💡 Practical Problem Solver – Transforming complex business requirements into efficient, user-focused web applications that add real value.
+ Practical Problem Solver – Transforming complex business requirements into efficient, user-focused web applications that add real value.
 
 ---
 
@@ -90,20 +90,20 @@ I am a dedicated Web Developer with expertise in both frontend and backend devel
 A comprehensive Point of Sale system featuring real-time inventory tracking, sales analytics, and user management. Built with modern web technologies for optimal performance and user experience.
 
 **Key Features:**
-- 📦 Real-time inventory management
-- 💰 Transaction processing
-- 📊 Sales analytics and reporting
-- 👥 Multi-user support
+-  Real-time inventory management
+-  Transaction processing
+-  Sales analytics and reporting
+-  Multi-user support
 
 ---
 
-## 📈 Current Focus
+##  Current Focus
 
-- ⚡ Advancing expertise in **Laravel (PHP 8+)** for backend development and **React.js** for dynamic frontends.  
-- 🔗 Architecting and consuming **RESTful APIs**, including authentication (JWT, OAuth2) and data validation.  
-- 🛒 Developing scalable **e-commerce solutions** with features like inventory management, order processing, and payment integration.  
-- 🎨 Creating **intuitive, responsive UIs** using modern CSS frameworks (Tailwind, Bootstrap) and component-driven design.  
-- 🧹 Applying **clean code practices**: SOLID principles, design patterns, and code refactoring for long-term maintainability.  
+-  Advancing expertise in **Laravel (PHP 8+)** for backend development and **React.js** for dynamic frontends.  
+-  Architecting and consuming **RESTful APIs**, including authentication (JWT, OAuth2) and data validation.  
+-  Developing scalable **e-commerce solutions** with features like inventory management, order processing, and payment integration.  
+-  Creating **intuitive, responsive UIs** using modern CSS frameworks (Tailwind, Bootstrap) and component-driven design.  
+-  Applying **clean code practices**: SOLID principles, design patterns, and code refactoring for long-term maintainability.  
 
 
 ---
