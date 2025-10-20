@@ -13,7 +13,7 @@
 
 ##  About Me
 
-I am a results-driven Web Developer specializing in both frontend and backend development. I make modern, responsive, and high-performance web applications designed to provide seamless and engaging user experiences. With a strong foundation in full-stack technologies, I’m passionate about turning complex requirements into clean, efficient, and scalable digital solutions that align with organizational goals and deliver measurable impact.
+I am a goal-oriented Web Developer specializing in both frontend and backend development. I make modern, responsive, and high-performance web applications designed to provide seamless and engaging user experiences. With a strong foundation in full-stack technologies, I’m passionate about turning complex requirements into clean, efficient, and scalable digital solutions that align with organizational goals and deliver measurable impact.
 
 ###  Core Strengths
 
