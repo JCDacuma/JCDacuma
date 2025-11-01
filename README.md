@@ -39,12 +39,6 @@ Dedicated to transforming complex requirements into efficient, user-focused solu
 
 ## 🛠️ Technology Stack
 
-## 🛠️ Technology Stack
-
-<div align="center">
-
-## 🛠️ Technology Stack
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Frontend%3A+React+%7C+JavaScript+%7C+TailwindCSS+%7C+Bootstrap;Backend%3A+PHP+%7C+Laravel+%7C+REST+API;Database%3A+MySQL+%7C+PostgreSQL+%7C+Docker" alt="Tech Stack" />
