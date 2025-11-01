@@ -39,7 +39,12 @@ Dedicated to transforming complex requirements into efficient, user-focused solu
 
 ## 🛠️ Technology Stack
 
+## 🛠️ Technology Stack
+
 <div align="center">
+
+### 💻 Tech Stack
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,redux,php,laravel,mysql,postgres,git,docker,vercel,netlify&perline=8" />
 
 ### Frontend Development
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -72,7 +77,6 @@ Dedicated to transforming complex requirements into efficient, user-focused solu
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
-
 
 </div>
 
