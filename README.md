@@ -43,8 +43,11 @@ Dedicated to transforming complex requirements into efficient, user-focused solu
 
 <div align="center">
 
-### 💻 Tech Stack
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,redux,php,laravel,mysql,postgres,git,docker,vercel,netlify&perline=8" />
+## 🛠️ Technology Stack
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Frontend%3A+React+%7C+JavaScript+%7C+TailwindCSS+%7C+Bootstrap;Backend%3A+PHP+%7C+Laravel+%7C+REST+API;Database%3A+MySQL+%7C+PostgreSQL+%7C+Docker" alt="Tech Stack" />
 
 ### Frontend Development
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
