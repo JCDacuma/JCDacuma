@@ -41,8 +41,6 @@ Dedicated to transforming complex requirements into efficient, user-focused solu
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=1E90FF&center=true&vCenter=true&repeat=true&width=900&height=80&lines=Frontend%3A+React+%E2%9A%9B+JavaScript+%E2%9C%A8+Tailwind+%F0%9F%8E%A8+Bootstrap;Backend%3A+PHP+%F0%9F%90%98+Laravel+%F0%9F%94%A5+REST+API+%F0%9F%94%8C;Database%3A+MySQL+%F0%9F%90%AC+PostgreSQL+%F0%9F%90%98+Redis;DevOps%3A+Docker+%F0%9F%90%B3+Git+%F0%9F%93%A6+Vercel+%E2%96%B2+Netlify;Tools%3A+Redux+%F0%9F%94%84+Framer+Motion+%E2%9C%A8+Chart.js+%F0%9F%93%8A" alt="Tech Stack" />
-
 ### Frontend Development
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
