@@ -5,8 +5,6 @@
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=JCDacuma&color=blueviolet&style=for-the-badge)
-
 ###  Full-Stack Web Developer
 ###  Building modern, responsive & scalable web applications
 
@@ -94,12 +92,7 @@ Dedicated to transforming complex requirements into efficient, user-focused solu
   <img height="180em" src="https://streak-stats.demolab.com?user=JCDacuma&theme=tokyonight&hide_border=true" />
 </a>
 
----
 
-### 🏆 GitHub Trophies
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=JCDacuma&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" />
-</a>
 
 </div>
 
