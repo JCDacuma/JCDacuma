@@ -77,20 +77,32 @@ Dedicated to transforming complex requirements into efficient, user-focused solu
 
 ---
 
-## 📊 GitHub Analytics
+## 🚀 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JCDacuma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCDacuma&layout=compact&theme=tokyonight&hide_border=true" />
+### 📈 Overall Stats
+<a href="https://github.com/JCDacuma">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JCDacuma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCDacuma&layout=compact&theme=tokyonight&hide_border=true" />
+</a>
+
+---
+
+### 🔥 Contribution Streak
+<a href="https://git.io/streak-stats">
+  <img height="180em" src="https://streak-stats.demolab.com?user=JCDacuma&theme=tokyonight&hide_border=true" />
+</a>
+
+---
+
+### 🏆 GitHub Trophies
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=JCDacuma&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" />
+</a>
 
 </div>
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=JCDacuma&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
 
 ---
 
