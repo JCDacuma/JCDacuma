@@ -33,7 +33,7 @@ Able to work effectively in team environments, contributing ideas and collaborat
 Analytical Problem-Solving
 Dedicated to transforming complex requirements into efficient, user-focused solutions that add real value to organizations and end-users.
 
----
+----
 
 ## 🛠️ Technology Stack
 
