@@ -88,9 +88,8 @@ Dedicated to transforming complex requirements into efficient, user-focused solu
 ---
 
 ### 🔥 Contribution Streak
-<a href="https://git.io/streak-stats">
-  <img height="180em" src="https://streak-stats.demolab.com?user=JCDacuma&theme=tokyonight&hide_border=true" />
-</a>
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=JCDacuma)](https://git.io/streak-stats)
+
 
 
 
