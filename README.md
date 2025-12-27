@@ -109,7 +109,7 @@ Dedicated to transforming complex requirements into efficient, user-focused solu
 
 ## 🚀 Featured Projects
 
-### 🏪 Inventory POS System
+### Inventory POS System
 A comprehensive Point of Sale system featuring real-time inventory tracking, sales analytics, and user management. Built with modern web technologies for optimal performance and user experience.
 
 **Key Features:**
