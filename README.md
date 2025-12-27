@@ -80,19 +80,23 @@ Dedicated to transforming complex requirements into efficient, user-focused solu
 <div align="center">
 
 ### 📈 Overall Stats
-<a href="https://github.com/JCDacuma">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=JCDacuma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 
-</a>
+<p align="center">
+  <img 
+    height="170em"
+    src="https://github-readme-stats.vercel.app/api?username=JCDacuma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400"
+  />
+</p>
 
 ---
 
 ### 🔥 Contribution Streak
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=JCDacuma&theme=tokyonight&hide_border=true&border_radius=8" />
-  </a>
+  <img 
+    src="https://streak-stats.demolab.com?user=JCDacuma&theme=tokyonight&hide_border=true&border_radius=8&cache_seconds=86400"
+    alt="GitHub Streak"
+  />
 </p>
 
 </div>
@@ -102,7 +106,7 @@ Dedicated to transforming complex requirements into efficient, user-focused solu
 
 ## 🚀 Featured Projects
 
-### 🏪 [Inventory POS System](https://github.com/JCDacuma/inventoryPOS)
+### 🏪 Inventory POS System
 A comprehensive Point of Sale system featuring real-time inventory tracking, sales analytics, and user management. Built with modern web technologies for optimal performance and user experience.
 
 **Key Features:**
@@ -110,6 +114,8 @@ A comprehensive Point of Sale system featuring real-time inventory tracking, sal
 -  Transaction processing
 -  Sales analytics and reporting
 -  Multi-user support
+
+### Ordering with inventory and delivery queue management system for koolwater
 
 ---
 
