@@ -43,6 +43,7 @@ Dedicated to transforming complex requirements into efficient, user-focused solu
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
@@ -50,13 +51,15 @@ Dedicated to transforming complex requirements into efficient, user-focused solu
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MUI](https://img.shields.io/badge/-MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radix-ui&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 
 ### Backend Development  
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Laravel Sanctum](https://img.shields.io/badge/-Laravel%20Sanctum-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![JWT](https://img.shields.io/badge/-JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![REST API](https://img.shields.io/badge/-REST%20API-009688?style=for-the-badge&logo=postman&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### Database Management
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -116,6 +119,13 @@ A comprehensive Point of Sale system featuring real-time inventory tracking, sal
 -  Multi-user support
 
 ### Ordering with inventory and delivery queue management system for koolwater
+An integrated system that manages orders, inventory, and delivery queues efficiently. Designed to optimize workflow, reduce delays, and ensure smooth coordination between ordering , stocks and delivery operations.
+
+**Key Features:**
+- Centralized order management and tracking
+- Inventory updates synchronized with orders
+- Automated delivery queue for optimized scheduling
+- Real-time status updates for both staff and customers
 
 ---
 
