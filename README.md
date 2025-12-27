@@ -107,25 +107,49 @@ Dedicated to transforming complex requirements into efficient, user-focused solu
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### Inventory POS System
-A comprehensive Point of Sale system featuring real-time inventory tracking, sales analytics, and user management. Built with modern web technologies for optimal performance and user experience.
-
-**Key Features:**
--  Real-time inventory management
--  Transaction processing
--  Sales analytics and reporting
--  Multi-user support
-
-### Ordering with inventory and delivery queue management system for koolwater
-An integrated system that manages orders, inventory, and delivery queues efficiently. Designed to optimize workflow, reduce delays, and ensure smooth coordination between ordering , stocks and delivery operations.
+### Point of Sale with Inventory Management System with QR Code Integration
+A comprehensive **Point of Sale (POS) web application** developed for **AGS Grocery Store**, featuring **real-time inventory tracking, sales analytics, and multi-user management**. The system enhances operational efficiency by **speeding up transactions, improving stock accuracy, and providing actionable sales insights**. Built with modern web technologies for **fast performance, secure transactions, and smooth user experience**.
 
 **Key Features:**
-- Centralized order management and tracking
+- Real-time inventory management with QR code scanning
+- Seamless transaction processing for faster checkout
+- Sales analytics and reporting dashboards for informed decisions
+- Multi-user roles and access control for store staff
+
+**Technologies Used:**  
+Laravel, **Laravel Sanctum (cookie-based authentication)**, React.js, TailwindCSS, MySQL, RESTful API
+
+---
+
+### Ordering with Inventory and Delivery Queue Management System
+A web-based ordering system developed for **KoolWater**, a mineral water company. This system efficiently **tracks company containers (including returnable ones), manages available stock, and optimizes delivery assignment**. Designed to **streamline workflow, reduce delivery delays, and ensure smooth coordination** between orders, inventory, and deliveries.
+
+**Key Features:**
+- Centralized order management and container tracking
 - Inventory updates synchronized with orders
-- Automated delivery queue for optimized scheduling
-- Real-time status updates for both staff and customers
+- Automated delivery queue for optimized scheduling and routing
+- Real-time status updates for staff and customers
+
+**Technologies Used:**  
+Laravel, **Laravel Sanctum (cookie-based authentication)**, React.js, TypeScript, TailwindCSS, MySQL, RESTful API
+
+---
+
+### EggLedger: Egg Inventory, Sales & Debt Tracker
+A **smart web application** developed for **Orovet Farm** to **manage egg inventory, monitor sales, track pricing, and manage debts**. EggLedger provides a **real-time dashboard** for stock levels, financial tracking, and sales analytics, enabling **accurate decision-making and improved operational efficiency** for farm management.
+
+**Key Features:**
+- Real-time egg stock monitoring and updates
+- Sales tracking with pricing management
+- Debt tracking and customer balance management
+- RESTful API integration for seamless data flow
+- User-friendly dashboard with React.js and TailwindCSS
+
+**Technologies Used:**  
+React.js, TypeScript, TailwindCSS, Laravel, **Laravel Sanctum (cookie-based authentication)**, MySQL, RESTful API
+
 
 ---
 
