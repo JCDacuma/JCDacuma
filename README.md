@@ -85,20 +85,8 @@ Dedicated to transforming complex requirements into efficient, user-focused solu
 ### 📈 Overall Stats
 
 <p align="center">
-  <img 
-    height="170em"
-    src="https://github-readme-stats.vercel.app/api?username=JCDacuma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400"
-    alt="JCDacuma GitHub Stats"
-  />
-</p>
-
----
-
-### 🔥 Contribution Streak
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=JCDacuma&theme=tokyonight&hide_border=true&border_radius=8&cache_seconds=86400"
+  <img
+    src="https://streak-stats.demolab.com?user=JCDacuma&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
   />
 </p>
