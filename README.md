@@ -88,6 +88,7 @@ Dedicated to transforming complex requirements into efficient, user-focused solu
   <img 
     height="170em"
     src="https://github-readme-stats.vercel.app/api?username=JCDacuma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400"
+    alt="JCDacuma GitHub Stats"
   />
 </p>
 
@@ -103,6 +104,7 @@ Dedicated to transforming complex requirements into efficient, user-focused solu
 </p>
 
 </div>
+
 
 
 ---
