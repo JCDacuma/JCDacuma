@@ -81,18 +81,18 @@ Dedicated to transforming complex requirements into efficient, user-focused solu
 ## 🚀 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-alpha-one-jaz2.vercel.app/api?username=JCDacuma&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats-alpha-one-jaez1sfjbr.vercel.app/api?username=JCDacuma&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="GitHub Stats" height="165">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JCDacuma&theme=dark" alt="GitHub Streak" height="165">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-alpha-one-jaz2.vercel.app/api/top-langs/?username=JCDacuma&layout=compact&theme=dark&count_private=true&langs_count=8" alt="Top Languages">
+  <img src="https://github-readme-stats-alpha-one-jaez1sfjbr.vercel.app/api/top-langs/?username=JCDacuma&layout=compact&theme=dark&count_private=true&langs_count=8" alt="Top Languages">
 </p>
 
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=JCDacuma&theme=darkhub&no-frame=true&row=1&column=7" alt="Trophies">
-</p>>
+</p>
 
 
 
