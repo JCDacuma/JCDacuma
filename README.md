@@ -80,18 +80,21 @@ Dedicated to transforming complex requirements into efficient, user-focused solu
 
 ## 🚀 GitHub Analytics
 
-<div align="center">
-
-### 📈 Overall Stats
+<p align="center">
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JCDacuma&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+    height="170"
+    alt="GitHub Stats"
+  />
+</p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=JCDacuma&theme=tokyonight&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com?user=JCDacuma&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
   />
 </p>
 
-</div>
 
 
 
