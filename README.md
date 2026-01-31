@@ -90,13 +90,6 @@ Dedicated to transforming complex requirements into efficient, user-focused solu
   <img src="https://github-readme-stats-alpha-one-jaez1sfjbr.vercel.app/api/top-langs/?username=JCDacuma&layout=compact&theme=dark&count_private=true&langs_count=8" alt="Top Languages">
 </p>
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JCDacuma&theme=darkhub&no-frame=true&row=1&column=7" alt="Trophies">
-</p>
-
-
-
 
 ---
 
