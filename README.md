@@ -12,29 +12,6 @@
 
 ---
 
-##  About Me
-
-I am a goal-oriented Web Developer specializing in both frontend and backend development. I make modern, responsive, and high-performance web applications designed to provide seamless and engaging user experiences. With a strong foundation in full-stack technologies, I’m passionate about turning complex requirements into clean, efficient, and scalable digital solutions that align with organizational goals and deliver measurable impact.
-
-###  Core Strengths
-
-Full-Stack Development
-Experience in developing responsive user interfaces and building secure, database-driven backend systems using modern frameworks and technologies.
-
-Commitment to Growth
-Continuously improving my technical skills by exploring new tools, frameworks, and best practices in web development.
-
-Quality and Efficiency
-Focused on writing clean, maintainable code and optimizing applications for performance, scalability, and long-term reliability.
-
-Collaboration and Communication
-Able to work effectively in team environments, contributing ideas and collaborating with designers, developers, and stakeholders to achieve project goals.
-
-Analytical Problem-Solving
-Dedicated to transforming complex requirements into efficient, user-focused solutions that add real value to organizations and end-users.
-
-----
-
 ## 🛠️ Technology Stack
 
 <div align="center">
@@ -86,10 +63,29 @@ Dedicated to transforming complex requirements into efficient, user-focused solu
 
 </p>
 
-
-
-
 ---
+##  About Me
+
+I am a goal-oriented Web Developer specializing in both frontend and backend development. I make modern, responsive, and high-performance web applications designed to provide seamless and engaging user experiences. With a strong foundation in full-stack technologies, I’m passionate about turning complex requirements into clean, efficient, and scalable digital solutions that align with organizational goals and deliver measurable impact.
+
+###  Core Strengths
+
+Full-Stack Development
+Experience in developing responsive user interfaces and building secure, database-driven backend systems using modern frameworks and technologies.
+
+Commitment to Growth
+Continuously improving my technical skills by exploring new tools, frameworks, and best practices in web development.
+
+Quality and Efficiency
+Focused on writing clean, maintainable code and optimizing applications for performance, scalability, and long-term reliability.
+
+Collaboration and Communication
+Able to work effectively in team environments, contributing ideas and collaborating with designers, developers, and stakeholders to achieve project goals.
+
+Analytical Problem-Solving
+Dedicated to transforming complex requirements into efficient, user-focused solutions that add real value to organizations and end-users.
+
+----
 
 ## 🛠️ Featured Projects
 
