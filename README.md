@@ -89,7 +89,7 @@ Dedicated to transforming complex requirements into efficient, user-focused solu
 
 ## 🛠️ Featured Projects
 
-### Point of Sale with Inventory Management System with QR Code Integration
+### POS-Integrated Inventory Management System with Automated Expiration Tracking
 A comprehensive **Point of Sale (POS) web application** developed for **AGS Grocery Store**, featuring **real-time inventory tracking, sales analytics, and multi-user management**. The system enhances operational efficiency by **speeding up transactions, improving stock accuracy, and providing actionable sales insights**. Built with modern web technologies for **fast performance, secure transactions, and smooth user experience**.
 
 **Key Features:**
