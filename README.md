@@ -82,7 +82,7 @@ Dedicated to transforming complex requirements into efficient, user-focused solu
 
 <p align="center">
   <img src="https://github-readme-stats-alpha-one-jaez1sfjbr.vercel.app/api?username=JCDacuma&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="GitHub Stats" height="165">
-  <a href="https://git.io/streak-stats"><img src="https://github-streak-theta.vercel.app?user=JCSean&theme=radical" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-streak-theta.vercel.app?user=JCDacuma&theme=radical" alt="GitHub Streak" /></a>
 
 </p>
 
