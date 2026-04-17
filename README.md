@@ -151,6 +151,6 @@ Practicing clean and maintainable coding standards, including SOLID principles, 
 
 ### 💭 *"The best way to predict the future is to create it."*
 
-**Thanks for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out for collaborations or just a friendly chat about tech! 🚀**
+**Thanks for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out for collaborations or just a friendly chat about tech! **
 
 </div>
