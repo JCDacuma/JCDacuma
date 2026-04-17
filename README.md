@@ -98,7 +98,7 @@ A comprehensive **Point of Sale (POS) web application** developed for **AGS Groc
 - Multi-user roles and access control for store staff
 
 **Technologies Used:**  
-Laravel, **Laravel Sanctum (cookie-based authentication)**, React.js, TailwindCSS, MySQL, RESTful API
+Laravel, **Laravel Sanctum (cookie-based authentication)**, React.js, Typescript, TailwindCSS, MySQL, RESTful API
 
 ---
 
