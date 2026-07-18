@@ -12,7 +12,7 @@
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 <div align="center">
 
@@ -37,7 +37,10 @@
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![REST API](https://img.shields.io/badge/-REST%20API-009688?style=for-the-badge&logo=postman&logoColor=white)
+
+### Testing & Quality
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![PHPUnit](https://img.shields.io/badge/-PHPUnit-44566C?style=for-the-badge&logo=php&logoColor=white)
 
 ### Database Management
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -50,14 +53,15 @@
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Hostinger](https://img.shields.io/badge/-Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white)
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Railway](https://img.shields.io/badge/-Railway-0B0B0B?style=for-the-badge&logo=railway&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 GitHub Analytics
+##  GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats-alpha-one-jaez1sfjbr.vercel.app/api/top-langs/?username=JCDacuma&layout=compact&theme=dark&count_private=true&langs_count=8" alt="Top Languages">
@@ -89,71 +93,45 @@ Dedicated to transforming complex requirements into efficient, user-focused solu
 
 ----
 
-## 🛠️ Featured Projects
+##  Technical Experience
 
-### POS-Integrated Inventory Management System with Automated Expiration Tracking
-A comprehensive **Point of Sale (POS) web application** developed for **AGS Grocery Store**, featuring **real-time inventory tracking, sales analytics, and multi-user management**. The system enhances operational efficiency by **speeding up transactions, improving stock accuracy, and providing actionable sales insights**. Built with modern web technologies for **fast performance, secure transactions, and smooth user experience**.
+###  Full-Stack Architecture & System Design
+*I specialize in building end-to-end web applications that bridge the gap between complex business requirements and clean, user-centric solutions. My experience is centered on architectural reliability, security, and performance.*
 
-**Key Features:**
-- Real-time inventory management with QR code scanning
-- Seamless transaction processing for faster checkout
-- Sales analytics and reporting dashboards for informed decisions
-- Multi-user roles and access control for store staff
+*   **ERP & Operations:** Experience building systems that streamline business processes, including tools for employee attendance, workforce tracking, and resource management.
+*   **Inventory & Asset Management:** Experience in building real-time tracking systems for retail and supply chain operations, including QR code integration and automated stock synchronization.
+*   **Logistics & Order Optimization:** Developed intelligent queuing systems to optimize delivery routing, order fulfillment, and logistics coordination.
+*   **Financial & Data Tracking:** Experience creating robust financial dashboards for monitoring sales, pricing, and customer balance management, ensuring data integrity and accurate reporting.
 
-**Technologies Used:**  
-Laravel, **Laravel Sanctum (cookie-based authentication)**, React.js, Typescript, TailwindCSS, MySQL, RESTful API
+###  Secure Authentication & Identity Management
+*I prioritize security by implementing robust, industry-standard authentication patterns to protect user data and maintain session integrity.*
 
----
-
-### Ordering with Inventory and Delivery Queue Management System
-A web-based ordering system developed for **KoolWater**, a mineral water company. This system efficiently **tracks company containers (including returnable ones), manages available stock, and optimizes delivery assignment**. Designed to **streamline workflow, reduce delivery delays, and ensure smooth coordination** between orders, inventory, and deliveries.
-
-**Key Features:**
-- Centralized order management and container tracking
-- Inventory updates synchronized with orders
-- Automated delivery queue for optimized scheduling and routing
-- Real-time status updates for staff and customers
-
-**Technologies Used:**  
-Laravel, **Laravel Sanctum (cookie-based authentication)**, React.js, TypeScript, TailwindCSS, MySQL, RESTful API
+*   **Authentication & Session Management:** Experience implementing secure, industry-standard authentication patterns, including cookie-based sessions (Laravel Sanctum) and stateless API communication (JWT/OAuth 2.0).
+*   **Verification Systems:** Experience building multi-factor security layers, including OTP-based verification via SMS and Email to ensure high-trust interactions.
+*   **Biometric Integration:** Experience incorporating secure access methods like face recognition and fingerprint authentication to enhance user security and streamline identity verification.
 
 ---
 
-### EggLedger: Egg Inventory, Sales & Debt Tracker
-A **smart web application** developed for **Orovet Farm** to **manage egg inventory, monitor sales, track pricing, and manage debts**. EggLedger provides a **real-time dashboard** for stock levels, financial tracking, and sales analytics, enabling **accurate decision-making and improved operational efficiency** for farm management.
+##  Current Focus
 
-**Key Features:**
-- Real-time egg stock monitoring and updates
-- Sales tracking with pricing management
-- Debt tracking and customer balance management
-- RESTful API integration for seamless data flow
-- User-friendly dashboard with React.js and TailwindCSS
+Full-Stack Versatility: Strengthening backend expertise across both Laravel (PHP 8+) and Django (Python) frameworks to build high-performance, scalable web systems.
 
-**Technologies Used:**  
-React.js, TypeScript, TailwindCSS, Laravel, **Laravel Sanctum (cookie-based authentication)**, MySQL, RESTful API
+API Excellence: Designing and integrating secure, robust RESTful APIs with a focus on advanced authentication (JWT, OAuth2) and strict data validation.
 
+Scalable Solutions: Developing comprehensive web and e-commerce platforms, including complex inventory management, order tracking, and payment gateway integrations.
 
----
+Modern Frontend Development: Building highly responsive, component-driven user interfaces using React.js and modern styling frameworks like Tailwind CSS.
 
-##  🎯 Current Focus
-
-Strengthening expertise in Laravel (PHP 8+) for backend development and React.js for building dynamic, interactive frontends.
-
-Designing and integrating RESTful APIs with secure authentication (JWT, OAuth2) and robust data validation.
-
-Developing scalable web and e-commerce solutions, featuring inventory management, order tracking, and payment gateway integration.
-
-Making User-friendly and responsive user interfaces using modern CSS frameworks such as Tailwind CSS and Bootstrap, following a component-driven approach.
-
-Practicing clean and maintainable coding standards, including SOLID principles, design patterns, and systematic code refactoring for long-term project sustainability.
+Code Quality: Committed to writing clean, maintainable code by applying SOLID principles, design patterns, and consistent refactoring practices to ensure long-term project sustainability.
 
 
 ---
 
 <div align="center">
 
-### 💭 *"The best way to predict the future is to create it."*
+### 💭 *"The art of programming is the art of organizing complexity."*
+<small>- Edsger W. Dijkstra</small>
 
-**Thanks for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out for collaborations or just a friendly chat about tech! **
+**Thanks for stopping by! I’m always open to discussing new projects, collaborative opportunities, or simply exchanging insights on the latest in tech.**
 
 </div>
